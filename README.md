@@ -1,4 +1,4 @@
-* Last updated: **May 02 2017**.
+# Last updated: **May 02 2017**
 
 # About
 Open source ad/fakenews/gabling/porn-blocker for android
